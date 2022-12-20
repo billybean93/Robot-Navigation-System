@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.group.project.robot"},{"l":"com.group.project.robot.map"},{"l":"com.group.project.robot.maze"},{"l":"com.group.project.robot.robot"},{"l":"com.group.project.robot.strategy"},{"l":"com.group.project.robot.strategy.impl"},{"l":"com.group.project.robot.utiils"}]
