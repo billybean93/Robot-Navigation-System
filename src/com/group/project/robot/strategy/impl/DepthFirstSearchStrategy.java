@@ -115,7 +115,7 @@ public class DepthFirstSearchStrategy
       // Get state from maze and visualize
       // Anytime your robot calls to the go() method of Maze, a counter is increased
       String result = this.maze.go(direction.getDirection());
-      // this.maze.draw(path, this.visited, delay);
+      this.maze.draw(path, this.visited, delay);
 
       // Handle state and create new child node
       Node newNode = new Node(row + direction.getDeltaRow(), col + direction.getDeltaCol())
